@@ -1,0 +1,6 @@
+print("word"'place''word'"place")
+print("dhiraj'danny'yash")
+print('do "u" know "the" word')
+print("do '''u''' know '''the''' word")
+print("do 'u' know '''the''' word")
+print('''do "u" know 'the' word''')
